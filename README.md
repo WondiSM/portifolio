@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, STATA, MATA
 
 ## Education
-- Ph.D., Econo | Indiana Universitry at Indianapolis (_February 2020_)								       		
+- Ph.D., Economics | Indiana University at Indianapolis (_February 2020_)								       		
 - M.A., Economics	| Vanderbilt University at Nashville (_May 2014_)	 			        		
 
 
@@ -17,8 +17,8 @@
 - ...
 
 ## Talks and Lectures
--Health Systems: An undergraduate course that studies health systems in the United States
--
+1. Health Systems: An undergraduate course that studies health systems in the United States
+
 
 ## Publications
 1. Manalew, W. S., Tennekoon, V. S., Lee, J., O'Connell, B., & Quinn, M. (2022). Adversity in Infancy and Childhood Cognitive Development: Evidence From Four Developing Countries. International journal of public health, 67, 1604503. https://doi.org/10.3389/ijph.2022.1604503
