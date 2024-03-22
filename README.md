@@ -16,7 +16,7 @@
 - ...
 - ...
 
-##Publications
+## Publications
 1. Manalew, W. S., Tennekoon, V. S., Lee, J., O'Connell, B., & Quinn, M. (2022). Adversity in Infancy and Childhood Cognitive Development: Evidence From Four Developing Countries. International journal of public health, 67, 1604503. https://doi.org/10.3389/ijph.2022.1604503
 
 2. Manalew, W. S., Hale, N., Leinaar, E., Sen, B., Smith, M., & Khoury, A. (2022). Medicaid Cost Savings from Provision of Contraception to Beneficiaries in South Carolina, 2012-2018. Population health management, 25(4), 542–550. https://doi.org/10.1089/pop.2021.0392
