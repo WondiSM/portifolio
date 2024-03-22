@@ -1,9 +1,9 @@
-# Economist| Data Scientist 
+# Economist | Data Scientist 
 
 #### Technical Skills: Python, SQL, STATA, MATA
 
 ## Education
-- Ph.D., Economics| Indiana Universitry at Indiianapolis (_February 2020_)								       		
+- Ph.D., Economics | Indiana Universitry at Indianapolis (_February 2020_)								       		
 - M.A., Economics	| Vanderbilt University at Nashville (_May 2014_)	 			        		
 
 
