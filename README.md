@@ -1,4 +1,4 @@
-# Economist|Data Scientist 
+# Economist | Data Scientist 
 
 #### Technical Skills: Python, SQL, STATA, MATA
 
