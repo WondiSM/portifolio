@@ -8,10 +8,13 @@
 
 
 ## Work Experience
-**Reasearch Assistant AProfessor @ East Tennessee State University (_July 2021 - Present_)**
-- Cleaned Medicaid claims data and other survey data using Python and Stata.
+**Reasearch Assistant Professor @ East Tennessee State University (_July 2021 - Present_)** 
+(Research Associate from _July 2019 - June 2021_)
+
+- Managed and analysed large datasets including the Medicaid claims data and other survey data.
 - Led the development and implementation of multiple impact evaluation projects for assessing the effectiveness of a privately funded contraceptive access initiative in South Carolina. Evaluated the impact on the accessibility of reproductive healthcare products, contributing valuable insights to enhance program outcomes.
 - Spearheaded data analysis and research methodology for a pivotal study, resulting in a substantial increase in funding for a foundation's advocacy efforts—from $1.3 million to $3 million—by successfully influencing a state Medicaid agency.
+- Prepared manuscripts and evaluation reports for publication and dissemination.
   
 ## Data Science Bootcamp (Independent Study) @ Dataquest.io (_May 2023 - March 2024_)
 
@@ -20,9 +23,15 @@
 - Used Python to develop and execute an analytic vision to solve business and/or policy relevant problems using publicly available data and simulated data.
 
 
-**Research Associate @ East Tennessee State University (_July 2019 - June 2021_)**
+
+- 
 - ...
-- ...
+
+## Graduate Research Assistant 
+- Cleaned large data and prepared analysis samples.
+- Conducted statistical analysis, including selecting analysis model, running regressions, reporting result tables/graphs, and interpreting the results. 
+- Assisted in the review of academic research papers. 
+
 
 ## Projects
 ### Predicting reciept of screening for depression after child birth
@@ -30,9 +39,6 @@
 Used publicly available survey data to predict the receipt of screening for depression after child birht among postpartum women in the US. 
 
 [View Project](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php)
-
-
-
 
 
 
