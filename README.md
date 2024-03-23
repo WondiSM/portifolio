@@ -2,12 +2,12 @@
 
 #### Technical Skills: Python, SQL, STATA, MATA
 
-## Education
+# Education
 - Ph.D., Economics | Indiana University at Indianapolis (_February 2020_)								       		
 - M.A., Economics	| Vanderbilt University at Nashville (_May 2014_)	 			        		
 
 
-## Work Experience
+# Work Experience
 **Reasearch Assistant Professor (Research Associate the first 2 years) @ East Tennessee State University (_July 2019 - Present_)** 
 
 - Managed and analysed large datasets including the Medicaid claims data and other survey data.
@@ -32,8 +32,9 @@
   
 - Assisted in the review of academic research papers and writing manuscripts. 
 
-## Data Science Projects
-### [Project 1: Predicting Reciept of Screening for Depression After Child Birth (A Machine Learning Classification Project)](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php) 
+# Data Science Projects
+
+#### [Project 1: Predicting Reciept of Screening for Depression After Child Birth (A Machine Learning Classification Project)](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php) 
 
 Used publicly available survey data to predict the receipt of screening for depression after child birht among postpartum women in the US. 
 
@@ -44,11 +45,11 @@ Used publicly available survey data to predict the receipt of screening for depr
 #### [Project 4: Using Count Data Models for Revenue Forcasting when the data is under-disperesed data:](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php)
 
 
-## Talks and Lectures
+# Talks and Lectures
 1. Health Systems: An undergraduate course that studies health systems in the United States
 
 
-## Research Articles Published in Peer-reviewed Journals
+# Research Articles Published in Peer-reviewed Journals
 1. Manalew, W. S., Tennekoon, V. S., Lee, J., O'Connell, B., & Quinn, M. (2022). Adversity in Infancy and Childhood Cognitive Development: Evidence From Four Developing Countries. International journal of public health, 67, 1604503. [View Publication](https://doi.org/10.3389/ijph.2022.1604503) 
 
 3. Manalew, W. S., Hale, N., Leinaar, E., Sen, B., Smith, M., & Khoury, A. (2022). Medicaid Cost Savings from Provision of Contraception to Beneficiaries in South Carolina, 2012-2018. Population health management, 25(4), 542–550. [View Publication](https://doi.org/10.1089/pop.2021.0392)
