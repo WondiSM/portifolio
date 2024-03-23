@@ -24,6 +24,19 @@
 - ...
 - ...
 
+## Projects
+### Predicting reciept of screening for depression after child birth
+[Publication](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php)
+Used publicly available survey data to predict the receipt of screening for depression after child birht among postpartum women in the US. 
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
+
+
+
+
+
+
+
 ## Talks and Lectures
 1. Health Systems: An undergraduate course that studies health systems in the United States
 
