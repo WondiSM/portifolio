@@ -33,7 +33,7 @@
 - Assisted in the review of academic research papers and writing manuscripts. 
 
 ## Projects
-### [Predicting reciept of screening for depression after child birth](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php) 
+### [Project 1: Predicting reciept of screening for depression after child birth](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php) 
 
 Used publicly available survey data to predict the receipt of screening for depression after child birht among postpartum women in the US. 
 
