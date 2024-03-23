@@ -32,10 +32,14 @@
   
 - Assisted in the review of academic research papers and writing manuscripts. 
 
-## Projects
-### [Project 1: Predicting reciept of screening for depression after child birth](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php) 
+## Data Science Projects
+### [Project 1: Predicting Reciept of Screening for Depression After Child Birth](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php) 
 
 Used publicly available survey data to predict the receipt of screening for depression after child birht among postpartum women in the US. 
+
+#### [Project 2: Airbnb reviews and health and wellness related amenities](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php)
+
+#### [Project 3: Sentiment Analysis](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php)
 
 
 ## Talks and Lectures
