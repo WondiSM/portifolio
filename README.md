@@ -16,15 +16,16 @@
 ## Data Science Bootcamp (Independent Study) @ Dataquest.io (_May 2023 - March 2024_)
 
 -	Completed 35 courses in the "Data Scientist in Python" career path under the following learning paths:
-        1. Python Introduction
- 	      2. Data Analysis and Visualization
- 	      3. Data Cleaning
- 	      4. The Command Line
- 	      5. Working with Data Sources (SQL)
- 	      6. Probability and Statistics
- 	      7. Machine Learning In Python
- 	      8. Deep Learning in Python, and
- 	      9. Advanced Topics in Data Science (Git,Version Control, Spark, and Map-Reduce)
+
+ 	1. Python Introduction
+ 	2. Data Analysis and Visualization
+ 	3. Data Cleaning
+ 	4. The Command Line
+  5. Working with Data Sources (SQL)
+ 	6. Probability and Statistics
+ 	7. Machine Learning In Python
+ 	8. Deep Learning in Python, and
+ 	9. Advanced Topics in Data Science (Git,Version Control, Spark, and Map-Reduce)
  	
 - Used Python to develop and execute an analytic vision to solve business and/or policy relevant problems using publicly available data and simulated data.
 
