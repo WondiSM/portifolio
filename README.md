@@ -40,6 +40,8 @@ Used publicly available survey data to predict the receipt of screening for depr
 
 #### [Project 2: Airbnb reviews and health and wellness related amenities(A Machine Learning Regression Project)](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php)
 
+![](Airbnb.png) 
+
 #### [Project 3: Sentiment Analysis (A Machine Learning Natural Language Processing (NLP) Project)](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php)
 
 #### [Project 4: Using Count Data Models for Revenue Forcasting when the data is under-disperesed data:](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php)
